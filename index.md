@@ -1,3 +1,7 @@
+# Brenton Cromwell's Data Science Portfolio
+This is where I will be placing some of the work I compleated in on my path to become a Data Scientist.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/bcromwell12/bcromwell12.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
